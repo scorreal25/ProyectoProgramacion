@@ -1,4 +1,4 @@
 # ProyectoProgramacion
-clase
-Sofia Correal
-Valeria Vega 
+clase/
+Sofia Correal,
+Valeria Vega, 
